@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "30 Jul 2002" },
+    {
+      "website": "<a target='blank' href='https://www.youtube.com/'>https://www.youtube.com/</a>"
+    },
+    { "phone": "+63 908-441-3159" },
+    { "address": "Potohan, Tubigon, Bohol" }
+  ],
+  "data_2": [
+    { "age": 22 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>obguiatito3@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Potohan, Tubigon, Bohol",
+    "+63 908-441-3159",
+    "<a href='mailto:someone@example.com'>obguiatito3@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021 - Present",
+      "school": "MaterDei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2020",
+      "school": "Holy Family of Nazareth School",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2007 - 2015",
+      "school": "Tubigon West Central Elementay School",
+      "address": "Pooc Oriental, Tubigon, Bohol"
+    }
+  ]
+}

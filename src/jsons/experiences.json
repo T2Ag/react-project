@@ -1,0 +1,16 @@
+{
+  "companies": [
+    {
+      "company": "MaterDei College",
+      "title": "BSIT Student",
+      "duration": "Jun 2021 - Present",
+      "tasks": [
+        "Created simple projects using Laravel and Laravel Inertia with Vue.js, focusing on basic functionality and learning the integration between frontend and backend.",
+        "Experimented with React.js in small parts of my projects to improve my skills and understand how it works in web development.",
+        "Developed a small game project in Java to practice programming concepts and enhance my understanding of game development.",
+        "Worked with classmates on projects, sharing tasks like coding, testing, and debugging to complete our assignments.",
+        "Focused on making my projects efficient and easy to use by applying what I learned in my classes."        
+      ]
+    }
+  ]
+}
